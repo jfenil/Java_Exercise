@@ -11,9 +11,9 @@ public class Que20
         list.add("Patel");
         list.add("Royal");
 	list.ensureCapacity(8);
-        list.add("Maharshi");
-        list.add("Raj");
-        list.add("Dhruv");
+        list.add("Technosoft");
+        list.add("ltd");
+        list.add("LJ");
         System.out.println("after increasing size of list: "+list);
     }
 }
